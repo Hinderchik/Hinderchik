@@ -28,6 +28,7 @@
 <div align="center">
 
 ### ⛏️ AutoDrill-Reforged
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Hinderchik&repo=Hinderchik/AutoDrill-Reforged&show_owner=true&description_lines_count=2&theme=github_dark)](https://github.com/Hinderchik/AutoDrill-Reforged)
 [![GitHub Repo](https://img.shields.io/badge/-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hinderchik/AutoDrill-Reforged) 
 [![Stars](https://img.shields.io/github/stars/Hinderchik/AutoDrill-Reforged?style=for-the-badge&color=yellow)](https://github.com/Hinderchik/AutoDrill-Reforged/stargazers)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Hinderchik/AutoDrill-Reforged)
@@ -37,6 +38,7 @@
 ---
 
 ### ☁️ YouTube-Cloude-Fork
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Hinderchik&repo=Hinderchik/YouTube-Cloude-Fork&show_owner=true&description_lines_count=2&theme=github_dark)](https://github.com/Hinderchik/YouTube-Cloude-Fork)
 [![GitHub Repo](https://img.shields.io/badge/-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hinderchik/YouTube-Cloude-Fork) 
 [![Stars](https://img.shields.io/github/stars/Hinderchik/YouTube-Cloude-Fork?style=for-the-badge&color=yellow)](https://github.com/Hinderchik/YouTube-Cloude-Fork/stargazers)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hinderchik/YouTube-Cloude-Fork)
@@ -46,6 +48,7 @@
 ---
 
 ### 💻 XunCode (contributor)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Hinderchik&repo=Hinderchik/XunCode&show_owner=true&description_lines_count=2&theme=github_dark)](https://github.com/Hinderchik/XunCode)
 [![GitHub Repo](https://img.shields.io/badge/-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H4F8/XunCode) 
 [![Stars](https://img.shields.io/github/stars/H4F8/XunCode?style=for-the-badge&color=yellow)](https://github.com/H4F8/XunCode/stargazers)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/H4F8/XunCode)
